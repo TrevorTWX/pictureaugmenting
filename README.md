@@ -6,6 +6,7 @@
 ## algorithm                                          ##
 ## [Some methods are from internet sources]           ##
 ########################################################
+
 It takes in pictures from the source folder and then applies certain times rotation and zooming and randomly applies flipping. The result pictures are stored in the target folder.
 
 click here for example: http://trevort.info/2017/06/14/java-program-augmenting-pictures/
